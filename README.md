@@ -32,7 +32,7 @@
         </script>
 
 
-課題1の javascriptです。動作は以下のURLでご確認いただけます。
+課題1の javascriptです。動作は以下のURLでご確認いただけます。<br />
 https://gel-extra.tv/test/seira/
 
 一部 stack overflowなどを参照しました。よろしくお願いいたします。
